@@ -1,3 +1,4 @@
+
 # stroll.js – because it scrolls, and trolls.
 
 A collection of CSS list scroll effects. Works in browsers with support for CSS 3D transforms including a special touch-enabled mode for iOS & Android 4.x.
